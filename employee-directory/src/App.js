@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Search from "./components/Search";
 import Table from "./components/Table";
 import axios from "axios";
-//import "./App.css";
+import "./style.css";
 import { findAllByTestID } from "@testing-library/react";
 
 let data;
